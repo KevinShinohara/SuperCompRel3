@@ -1,0 +1,4 @@
+Total de Letras: 4
+Total de Linhas: 1
+média de : 4
+Most frequent word: Casa (Frequency: 1)
